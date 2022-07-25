@@ -5,7 +5,7 @@ El proyecto de este curso es una oportunidad para que desarrollen e implementen 
 ## Reglas
 
 * Los proyectos deben realizarse en grupos de __.
-* El proyecto debe hacer uso de las técnicas y herramientas aprendizadas, como se enseña en este curso.
+* El proyecto debe hacer uso de las técnicas y herramientas aprendidas.
 * El tema del proyecto es de su propia elección. Debe ser único dentro de la clase. No pueden haber dos proyectos sobre el mismo tema o usar el mismo conjunto de datos.
 * Debe haber alguna recopilación y/o limpieza de datos que es una parte significativa del proceso. No podrán utilizar un conjunto de datos conocido para el mismo propósito para el que fue desarrollado ese conjunto de datos. Pueden reutilizar un conjunto de datos, combinar conjuntos de datos o recopilar sus propios datos.
 
