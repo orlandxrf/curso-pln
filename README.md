@@ -20,7 +20,7 @@ El contenido del curso se describe a continuación:
 
 Se puede elegir cualquiera de las dos opciones para trabajar durante el curso
 
-* **Local**. Clonar el repositorio y trabajar en forma local: 
+* **Local**. Clonar el repositorio y trabajar en forma local: https://github.com/orlandxrf/curso-pln.git
 * [Google Colab](https://colab.research.google.com). Abrir cualquier notebook en `google colab` para trabajar usando los recursos proporcionados por google
 * [Kaggle](https://www.kaggle.com/). Funciona de forma similar a `google colab`, se pueden crear, subir, descargar y compartir notebooks
 * [Gradient](https://gradient.run/). Plataforma para construir y ejecutar aplicaciones de Machine Learning
