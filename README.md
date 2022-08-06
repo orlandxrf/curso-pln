@@ -3,9 +3,7 @@
 El contenido del curso se describe a continuación:
 
 * `data` contiene los conjuntos de datos usados
-* `notebooks` almacena las interfaces web (jupyter notebooks) de los temas vistos
-* `slides` diapositivas del curso
-* `proyect` descripción del proyecto a realizar
+* `project` descripción del proyecto a realizar
 
 ## Temario
 
