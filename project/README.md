@@ -58,8 +58,8 @@ El reporte y la presentación junto con el notebook del proyecto deberá ser env
 
 ## Fechas importantes
 
-* Avances:
-* Fecha presentación:
+* **Presentación de Avances**: 8 de noviembre
+* **Fecha presentación y entrega de reporte**: 6 de diciembre
 
-## Equipos
+## Equipos/Alumno
 Aquí se listaran los temas e integrantes de cada equipo
