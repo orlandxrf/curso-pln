@@ -54,7 +54,7 @@ Listar los libros, papers, urls, software que mencionan en el reporte. El format
 El proyecto deberá ser implementado y presentado. Se recomienda utilizar herramientas como [Streamlit](https://streamlit.io/), [gradio](https://gradio.app/), etc.
 
 ## Notas finales
-El reporte y la presentación junto con el notebook del proyecto deberá ser enviado por correo electrónico. El notebook puede ser compartido o enviado como archivo adjunto. La presentación y el reporte deberán estar en formato PDF.
+El reporte y la presentación junto con el notebook del proyecto deberá ser enviado por moodle. La presentación y el reporte deberán estar en formato PDF.
 
 ## Fechas importantes
 
