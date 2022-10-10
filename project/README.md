@@ -63,3 +63,13 @@ El reporte y la presentación junto con el notebook del proyecto deberá ser env
 
 ## Equipos/Alumno
 Aquí se listaran los temas e integrantes de cada equipo
+
+### Equipo 1
+
+La idea es analizar y clasificar los tipos de ciberbullying presentes en distintos tweets. A grandes rasgos, el objetivo sería poder determinar los tipos de violencia presentes en un cuerpo de texto y potencialmente categorizarlos en algún tipo (ya sea violencia racial, sexual, etc. ) Idealmente terminando con un análisis de toxicidad.
+
+*  Paola Montserrath
+*  Victor Manuel
+*  Andrés Alejandro
+*  Ivan Roberto
+
