@@ -73,3 +73,12 @@ La idea es analizar y clasificar los tipos de ciberbullying presentes en distint
 *  Andrés Alejandro
 *  Ivan Roberto
 
+### Equipo 2
+
+Aún no han elegido tema
+
+*  Antonio
+*  Abraham
+*  Sergio
+*  Miguel Ángel
+
