@@ -75,10 +75,43 @@ La idea es analizar y clasificar los tipos de ciberbullying presentes en distint
 
 ### Equipo 2
 
-Aún no han elegido tema
+Tema pendiente
 
 *  Antonio
 *  Abraham
 *  Sergio
 *  Miguel Ángel
+
+### Equipo 3
+
+Tema pendiente
+
+*  Marlen
+*  Alfredo Emmanuel
+*  Alfredo
+*  Luis Gerardo
+
+### Equipo 4
+
+Tema pendiente
+
+*  Santiago
+*  Rodrigo
+
+### Equipo 5
+
+Tema pendiente
+
+*  Jaime
+*  Iván
+*  Evelyn
+*  Juan
+
+### Equipo 6
+
+Un análisis de sentimiento para revisar si el sentimiento acerca de un artista en Twitter es positivo ó negativo ante eventos importantes, por ejemplo el lanzamiento de un nuevo disco.
+
+*  Eduardo Said
+*  Gabriela
+*  Daniel Eduardo
 
