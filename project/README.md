@@ -93,8 +93,11 @@ Tema pendiente
 
 ### Equipo 4
 
-Tema pendiente
+Un análisis de sentimiento para revisar si el sentimiento acerca de un artista en Twitter es positivo ó negativo ante eventos importantes, por ejemplo el lanzamiento de un nuevo disco.
 
+*  Eduardo Said
+*  Gabriela
+*  Daniel Eduardo
 *  Santiago
 *  Rodrigo
 
@@ -106,12 +109,4 @@ Tema pendiente
 *  Iván
 *  Evelyn
 *  Juan
-
-### Equipo 6
-
-Un análisis de sentimiento para revisar si el sentimiento acerca de un artista en Twitter es positivo ó negativo ante eventos importantes, por ejemplo el lanzamiento de un nuevo disco.
-
-*  Eduardo Said
-*  Gabriela
-*  Daniel Eduardo
 
