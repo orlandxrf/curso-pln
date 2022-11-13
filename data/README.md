@@ -18,7 +18,7 @@ Contiene la información de las últimas noticias sobre la pandemia de Covid-19 
 
 [news_pandemia_covid19.csv](news_pandemia_covid19.csv)
 
-### Lexicon en Español
+### Lexicon en idioma español
 
 Lexicon en español para la clases positiva y negativa, proporciona una estimación de la polaridad (de muy negativo -1,0 a muy positivo +1,0) y una desviación estándar (relacionada con la ambigüedad de la estimación de la polaridad; consulte el documento para obtener más detalles).
 
